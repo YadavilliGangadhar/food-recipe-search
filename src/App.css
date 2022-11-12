@@ -1,0 +1,12 @@
+
+.barhover:hover{
+  /* background-color: #432818; */
+  border-radius: 50%;
+  font-size: 16.5px;
+}
+.titlecolor{
+  color: #5e503f;
+}
+.border{
+  border-radius: 10px;
+}

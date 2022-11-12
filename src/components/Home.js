@@ -7,7 +7,7 @@ const Home = () => {
       <center>
         <div>
           <h3>Hello User</h3>
-          <h4>welcome To Food recipe search</h4>
+          <h4>Welcome To Food recipe search</h4>
           <h1 className="text-danger">SW!MATO</h1>
           <br />
           <br />
